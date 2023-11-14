@@ -21,8 +21,8 @@ Step 7: Save the changes and run the application on an Android device or emulato
 Step 8: Verify that the application launches successfully and displays the message.
 ## Program:
 
-## Developed By: Abhishek.A.G
-## Reg.No:212221040004
+## Developed By: Sudhindev S
+## Reg.No:212221040166
 
 ## activity_main.xml
 ```
